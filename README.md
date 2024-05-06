@@ -1,3 +1,5 @@
 # Titanic Analysis
-### hgh
-hgvkjbkjojkm;knjkbkj
+## Tools used
+### objectives
+#### insight
+##### recommendation
